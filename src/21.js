@@ -22,7 +22,7 @@ const steps = 200
 const segments = isSafari ? 50 : 100
 const radius = 0.1
 const thickness = 0.01
-const src = 'assets/highroad.mp3'
+const src = 'assets/audio.mp3'
 
 const defaults = {
   opacity: 0.5,
