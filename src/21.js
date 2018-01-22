@@ -31,13 +31,13 @@ const defaults = {
 }
 
 const presets = [
-//  { gradient: [ '#fff', '#4f4f4f' ],
-//    color: '#000', useHue: true },
+  { gradient: [ '#fff', '#4f4f4f' ],
+    color: '#000', useHue: true },
   // other styles that look decent
   // { gradient: [ '#fff', '#4f4f4f' ],
   //   color: '#000' },
-   { gradient: [ '#757575', '#1c0216' ],
-     color: '#fff' }
+  // { gradient: [ '#757575', '#1c0216' ],
+  //   color: '#fff' }
 ]
 
 let settings = presets[Math.floor(Math.random() * presets.length)]
