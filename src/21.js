@@ -31,7 +31,7 @@ const defaults = {
 }
 
 const presets = [
-  { gradient: [ '#fff', '#1c0216' ],
+  { gradient: [ '#fff', '#fff' ],
     color: '#000', useHue: true },
   // other styles that look decent
   // { gradient: [ '#fff', '#4f4f4f' ],
