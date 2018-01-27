@@ -24,7 +24,7 @@ npm start 1
 npm start -- 1 --open
 ```
 
-You can `npm run start -- 5 --open` to launch day 5 and open the browser to [http://localhost:9966/](http://localhost:9966/).
+You can `npm run start -- 21 --open` to launch day 21 and open the browser to [http://localhost:9966/](http://localhost:9966/).
 
 To build all demos:
 

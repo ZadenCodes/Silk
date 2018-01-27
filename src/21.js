@@ -22,7 +22,7 @@ const steps = 200
 const segments = isSafari ? 50 : 100
 const radius = 0.1
 const thickness = 0.01
-const src = 'assets/*.mp3'
+const src = 'assets/audio.mp3'
 
 const defaults = {
   opacity: 0.5,
@@ -109,7 +109,7 @@ function start () {
   const audio = audioPlayer(src, {
     context: audioContext,
     loop: true,
-    buffer: isSafari
+    buffer: isSafari,
   })
   const loader = document.querySelector('.loader')
   audio.once('load', () => {
