@@ -198,7 +198,7 @@
     "map-limit": "0.0.1",
     "masonry-layout": "^3.3.2",
     "minifyify": "^7.1.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "opn": "^3.0.2",
     "pinkie-promise": "^1.0.0",
     "simple-html-index": "^1.1.2",
