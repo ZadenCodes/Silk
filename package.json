@@ -191,7 +191,7 @@
     "bundle-collapser": "^1.2.1",
     "dirlist": "^1.0.2",
     "glslify": "^3.1.0",
-    "handlebars": "^4.0.5",
+    "handlebars": "^4.5.3",
     "hasha": "^2.0.2",
     "hbsfy": "^2.4.1",
     "installify": "^1.0.2",
