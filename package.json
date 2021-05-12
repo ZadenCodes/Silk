@@ -38,7 +38,7 @@
     "canvas-fit": "^1.5.0",
     "canvas-loop": "^1.0.7",
     "clamp": "^1.0.1",
-    "codemirror": "^5.8.0",
+    "codemirror": "^5.58.2",
     "color-hash": "^1.0.3",
     "color-style": "^1.0.0",
     "custom-element-styles": "^1.0.1",
